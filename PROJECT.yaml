@@ -1,0 +1,16 @@
+id: 50bd5ff9-0661-4a50-af05-270c5c6f0c96
+name: surveygenius
+description: "Designs optimal research surveys with reasoning"
+tier: prototype
+lane: side-projects
+priority: low
+category: text
+focus: false
+open_tasks: 0
+oss: false
+stack: [typescript, react, convex, vite]
+repo: https://github.com/mxn2020/surveygenius
+deploy_url: null
+last_active: 2026-03-02
+tags: [ai, convex]
+notes:
